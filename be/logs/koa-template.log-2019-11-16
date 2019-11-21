@@ -1,0 +1,548 @@
+[2019-11-16T19:46:25.242] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 34ms
+[2019-11-16T19:52:50.932] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 33ms
+[2019-11-16T19:52:51.526] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 35ms
+[2019-11-16T19:53:14.613] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 44ms
+[2019-11-16T19:53:17.248] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 40ms
+[2019-11-16T19:53:18.796] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 60ms
+[2019-11-16T19:53:25.199] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 42ms
+[2019-11-16T19:53:58.356] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 49ms
+[2019-11-16T19:54:35.607] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 33ms
+[2019-11-16T19:55:58.492] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 46ms
+[2019-11-16T19:57:46.394] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 37ms
+[2019-11-16T19:58:28.219] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 32ms
+[2019-11-16T19:58:45.276] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 38ms
+[2019-11-16T19:59:05.651] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 50ms
+[2019-11-16T19:59:40.852] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 34ms
+[2019-11-16T20:01:13.641] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 42ms
+[2019-11-16T20:06:24.457] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 41ms
+[2019-11-16T20:07:34.900] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 28ms
+[2019-11-16T20:07:35.911] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 32ms
+[2019-11-16T20:07:37.043] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 23ms
+[2019-11-16T20:26:41.450] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 28ms
+[2019-11-16T20:26:49.109] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 45ms
+[2019-11-16T20:33:38.277] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 0ms
+[2019-11-16T20:33:48.788] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 0ms
+[2019-11-16T20:34:36.355] [ERROR] [Default] - ReferenceError: getTablesName is not defined
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:59:25)
+    at new Promise (<anonymous>)
+    at tables.getTables (F:\myAdmin-vue\Koa-template\services\index.js:58:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-compose\index.js:42:32)
+[2019-11-16T20:34:36.360] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-16T20:35:12.092] [ERROR] [Default] - ReferenceError: getTablesName is not defined
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:59:21)
+    at new Promise (<anonymous>)
+    at tables.getTables (F:\myAdmin-vue\Koa-template\services\index.js:58:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-compose\index.js:42:32)
+[2019-11-16T20:35:12.099] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 11ms
+[2019-11-16T20:35:47.275] [ERROR] [Default] - ReferenceError: getTablesName is not defined
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:59:21)
+    at new Promise (<anonymous>)
+    at tables.getTables (F:\myAdmin-vue\Koa-template\services\index.js:58:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-compose\index.js:42:32)
+[2019-11-16T20:35:47.283] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 13ms
+[2019-11-16T20:36:37.970] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 27ms
+[2019-11-16T20:45:07.900] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:45:53.628] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 7ms
+[2019-11-16T20:47:06.641] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:47:34.159] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:48:17.189] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T20:48:58.353] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 9ms
+[2019-11-16T20:49:29.110] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:49:51.329] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:50:32.672] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:51:47.449] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:52:21.867] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:53:32.649] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T20:54:28.250] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T20:55:30.215] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:56:09.831] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T20:56:27.104] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 7ms
+[2019-11-16T20:56:49.358] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T20:57:16.491] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T20:58:06.755] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:58:53.083] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T20:59:34.677] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T21:00:01.007] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T21:00:16.303] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 10ms
+[2019-11-16T21:01:17.723] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T21:01:39.666] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T21:03:01.427] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T21:04:59.626] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T21:05:40.346] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T21:07:09.800] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T21:08:58.218] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 1ms
+[2019-11-16T23:21:27.793] [INFO] [Default] - GET 404 /api/tables/getTables - ::1 - 2ms
+[2019-11-16T23:23:40.906] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-16T23:24:42.393] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-16T23:25:22.326] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:26:28.445] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-16T23:26:53.836] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:29:30.744] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-16T23:29:30.753] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 1ms
+[2019-11-16T23:30:21.782] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-16T23:30:21.793] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:31:46.421] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:31:46.446] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 1ms
+[2019-11-16T23:31:48.659] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:31:48.679] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:31:52.611] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:31:52.627] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:32:35.562] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:32:35.580] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:33:01.679] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:33:01.700] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 1ms
+[2019-11-16T23:33:08.486] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 36ms
+[2019-11-16T23:33:08.513] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:34:56.772] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 16ms
+[2019-11-16T23:34:56.785] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 1ms
+[2019-11-16T23:36:09.649] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T23:36:09.657] [INFO] [Default] - GET 404 /api/tables/getTable - ::1 - 0ms
+[2019-11-16T23:36:33.628] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T23:36:33.654] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:36:33.657] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 18ms
+[2019-11-16T23:36:57.712] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T23:36:57.729] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:36:57.732] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 9ms
+[2019-11-16T23:37:12.597] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 11ms
+[2019-11-16T23:37:12.622] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:37:12.661] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 54ms
+[2019-11-16T23:38:49.206] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 21ms
+[2019-11-16T23:38:49.258] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:38:49.263] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 35ms
+[2019-11-16T23:39:46.699] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:39:46.772] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:39:46.831] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 89ms
+[2019-11-16T23:39:51.287] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:39:51.332] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:39:51.335] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 34ms
+[2019-11-16T23:40:10.664] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-16T23:40:10.690] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:10.713] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 30ms
+[2019-11-16T23:40:12.624] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:40:12.667] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:12.672] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 31ms
+[2019-11-16T23:40:19.640] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 6ms
+[2019-11-16T23:40:19.682] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:19.684] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 6ms
+[2019-11-16T23:40:21.616] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:40:21.685] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:21.715] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 86ms
+[2019-11-16T23:40:36.919] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:40:36.978] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:36.985] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 32ms
+[2019-11-16T23:40:38.446] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:40:38.481] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:40:38.487] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 23ms
+[2019-11-16T23:41:01.287] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:41:01.307] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:01.309] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 7ms
+[2019-11-16T23:41:04.858] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:41:04.916] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:04.920] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 45ms
+[2019-11-16T23:41:06.120] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:41:06.165] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:06.209] [INFO] [Default] - GET 200 /api/tables/getTable - ::1 - 65ms
+[2019-11-16T23:41:31.130] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:41:31.193] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:31.195] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 23ms
+[2019-11-16T23:41:46.357] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:41:46.412] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:46.416] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 26ms
+[2019-11-16T23:41:47.702] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:41:47.749] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:47.776] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 66ms
+[2019-11-16T23:41:50.181] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:41:50.226] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:41:50.229] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 32ms
+[2019-11-16T23:42:19.477] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 11ms
+[2019-11-16T23:42:19.510] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:90:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:42:19.515] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 22ms
+[2019-11-16T23:42:52.725] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-16T23:42:52.741] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:87:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:86:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:42:52.746] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 6ms
+[2019-11-16T23:43:37.487] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 16ms
+[2019-11-16T23:43:37.505] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:90:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:43:37.509] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 10ms
+[2019-11-16T23:43:52.179] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-16T23:43:52.193] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:43:52.205] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 17ms
+[2019-11-16T23:44:07.406] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T23:44:07.424] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:91:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-16T23:44:07.471] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 54ms
+[2019-11-16T23:45:16.253] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 13ms
+[2019-11-16T23:45:16.302] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:45:16.306] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 19ms
+[2019-11-16T23:48:11.362] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-16T23:48:11.402] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:11.408] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 16ms
+[2019-11-16T23:48:13.895] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:48:13.931] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:13.935] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 16ms
+[2019-11-16T23:48:39.454] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-16T23:48:39.491] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:39.496] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 13ms
+[2019-11-16T23:48:40.602] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:48:40.631] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:40.633] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 13ms
+[2019-11-16T23:48:53.231] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-16T23:48:53.300] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:53.303] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 47ms
+[2019-11-16T23:48:54.784] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:48:54.830] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:48:54.833] [INFO] [Default] - GET 200 /api/tables/getTable?0=a&1=c&2=c&3=o&4=u&5=n&6=t&7=s - ::1 - 23ms
+[2019-11-16T23:49:07.236] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-16T23:49:07.289] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:49:07.297] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 27ms
+[2019-11-16T23:49:08.400] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-16T23:49:08.425] [ERROR] [Default] - TypeError: Cannot convert object to primitive value
+    at Object.getRows (F:\myAdmin-vue\Koa-template\services\SQL.js:5:28)
+    at Promise (F:\myAdmin-vue\Koa-template\services\index.js:88:26)
+    at new Promise (<anonymous>)
+    at tables.getTable (F:\myAdmin-vue\Koa-template\services\index.js:87:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+[2019-11-16T23:49:08.434] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-16T23:49:24.720] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 18ms
+[2019-11-16T23:49:24.776] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 41ms

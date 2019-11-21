@@ -1,0 +1,101 @@
+[2019-11-19T08:40:26.757] [INFO] [Default] - POST 200 /api/user/login - ::1 - 46ms
+[2019-11-19T08:40:28.615] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:40:29.345] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:40:29.483] [INFO] [Default] - POST 200 /api/user/login - ::1 - 2ms
+[2019-11-19T08:40:29.700] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:47:56.980] [INFO] [Default] - POST 200 /api/user/login - ::1 - 4ms
+[2019-11-19T08:48:13.725] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:48:55.331] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:49:20.351] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:50:18.542] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:51:54.079] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-19T08:53:29.003] [INFO] [Default] - POST 200 /api/user/login - ::1 - 5ms
+[2019-11-19T08:55:05.836] [INFO] [Default] - POST 200 /api/user/login - ::1 - 6ms
+[2019-11-19T08:55:25.737] [INFO] [Default] - POST 200 /api/user/login - ::1 - 2ms
+[2019-11-19T08:56:24.111] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 66ms
+[2019-11-19T08:56:37.520] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 60ms
+[2019-11-19T08:56:37.574] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 33ms
+[2019-11-19T08:56:41.078] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 37ms
+[2019-11-19T08:56:42.002] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 35ms
+[2019-11-19T08:56:44.078] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-19T08:56:44.134] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 35ms
+[2019-11-19T08:56:48.136] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 57ms
+[2019-11-19T08:56:57.463] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 229ms
+[2019-11-19T08:56:57.530] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 7ms
+[2019-11-19T08:57:02.489] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 73ms
+[2019-11-19T08:57:02.616] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 121ms
+[2019-11-19T08:57:02.658] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 25ms
+[2019-11-19T09:01:05.743] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-19T09:01:05.772] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-19T09:01:15.185] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-19T09:01:15.257] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 47ms
+[2019-11-19T09:09:19.859] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 7ms
+[2019-11-19T09:09:19.912] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 25ms
+[2019-11-19T09:14:55.476] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.undefined' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:96:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-19T09:14:55.483] [INFO] [Default] - GET 200 /api/tables/getTable?0=l&1=o&2=g - ::1 - 52ms
+[2019-11-19T09:16:43.142] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.log' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:96:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-19T09:16:43.151] [INFO] [Default] - GET 200 /api/tables/getTable?name=log - ::1 - 17ms
+[2019-11-19T09:16:49.494] [ERROR] [Default] - Error: [ERROR] - ER_NO_SUCH_TABLE: Table 'course.log' doesn't exist
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:96:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-19T09:16:49.498] [INFO] [Default] - GET 200 /api/tables/getTable?name=log - ::1 - 8ms
+[2019-11-19T09:17:07.918] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 7ms
+[2019-11-19T09:17:10.657] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 3ms
+[2019-11-19T09:18:00.469] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 4ms
+[2019-11-19T09:18:05.265] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 3ms
+[2019-11-19T09:19:55.664] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 5ms
+[2019-11-19T09:20:31.455] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 2ms
+[2019-11-19T09:20:45.019] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 2ms
+[2019-11-19T09:20:48.756] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 2ms
+[2019-11-19T09:21:55.175] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-19T09:21:55.221] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-19T09:21:58.921] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 7ms
+[2019-11-19T09:26:17.343] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-19T09:26:17.372] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-19T09:26:18.992] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 7ms
+[2019-11-19T09:26:22.678] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 7ms
+[2019-11-19T09:26:22.722] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-19T09:26:24.494] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 7ms
+[2019-11-19T09:27:03.849] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 7ms
+[2019-11-19T09:27:03.891] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-19T09:27:36.721] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 16ms
+[2019-11-19T09:28:14.409] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 6ms
+[2019-11-19T09:29:02.146] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 7ms
+[2019-11-19T09:29:20.280] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 11ms
+[2019-11-19T09:29:43.521] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 8ms
+[2019-11-19T09:29:53.785] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 7ms
+[2019-11-19T09:30:53.809] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 7ms
+[2019-11-19T09:31:52.845] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 8ms
+[2019-11-19T09:31:55.821] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 5ms
+[2019-11-19T09:36:22.121] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-19T09:36:22.149] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-19T09:43:00.808] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 7ms
+[2019-11-19T09:43:09.105] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 4ms

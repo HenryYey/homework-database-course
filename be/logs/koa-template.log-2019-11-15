@@ -1,0 +1,135 @@
+[2019-11-15T11:19:14.838] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 6ms
+[2019-11-15T11:20:15.796] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 8ms
+[2019-11-15T11:22:40.968] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 8ms
+[2019-11-15T11:24:31.894] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 25ms
+[2019-11-15T11:26:21.265] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 22ms
+[2019-11-15T11:26:56.966] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 27ms
+[2019-11-15T11:27:31.230] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 26ms
+[2019-11-15T11:27:58.074] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 27ms
+[2019-11-15T11:28:17.693] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 22ms
+[2019-11-15T11:30:08.867] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 25ms
+[2019-11-15T11:37:00.767] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 23ms
+[2019-11-15T11:37:34.536] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 24ms
+[2019-11-15T13:29:53.651] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 2ms
+[2019-11-15T13:31:02.231] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 41ms
+[2019-11-15T13:31:52.683] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 29ms
+[2019-11-15T13:33:07.128] [INFO] [Default] - GET 404 /api/user/getEvents - ::1 - 26ms
+[2019-11-15T13:34:11.976] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 52ms
+[2019-11-15T13:40:11.114] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 47ms
+[2019-11-15T13:43:55.954] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 53ms
+[2019-11-15T13:46:39.517] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 59ms
+[2019-11-15T13:47:21.206] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 39ms
+[2019-11-15T13:47:24.626] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 27ms
+[2019-11-15T13:47:26.750] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 23ms
+[2019-11-15T13:47:27.705] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 27ms
+[2019-11-15T13:49:40.631] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 19ms
+[2019-11-15T13:56:47.637] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 84ms
+[2019-11-15T13:56:47.800] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 112ms
+[2019-11-15T13:56:55.250] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 33ms
+[2019-11-15T14:04:00.930] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 32ms
+[2019-11-15T14:04:12.087] [INFO] [Default] - POST 404 /api/user/addEvents - ::1 - 57ms
+[2019-11-15T14:12:44.893] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 32ms
+[2019-11-15T14:12:57.249] [INFO] [Default] - POST 404 /api/user/addEvents - ::1 - 46ms
+[2019-11-15T14:13:26.084] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 23ms
+[2019-11-15T14:13:37.875] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 19ms
+[2019-11-15T14:14:25.610] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 51ms
+[2019-11-15T14:14:25.670] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 47ms
+[2019-11-15T14:14:36.301] [INFO] [Default] - GET 200 /api/user/getEvents - ::1 - 23ms
+[2019-11-15T14:14:44.104] [INFO] [Default] - POST 404 /api/user/addEvents - ::1 - 6ms
+[2019-11-15T14:15:20.990] [INFO] [Default] - GET 404 /api/time/getEvents - ::1 - 1ms
+[2019-11-15T14:16:11.796] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 22ms
+[2019-11-15T14:16:18.579] [INFO] [Default] - POST 404 /api/time/addEvents - ::1 - 52ms
+[2019-11-15T14:17:15.008] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 21ms
+[2019-11-15T14:17:20.505] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '' for column 'start_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\controllers\time.js:40:15)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-15T14:17:20.592] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 201ms
+[2019-11-15T14:17:24.030] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 69ms
+[2019-11-15T14:19:13.717] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 300ms
+[2019-11-15T14:19:18.268] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 67ms
+[2019-11-15T14:19:28.460] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '' for column 'start_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\controllers\time.js:40:15)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-15T14:19:28.517] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 222ms
+[2019-11-15T14:24:54.112] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 66ms
+[2019-11-15T14:25:08.992] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 69ms
+[2019-11-15T14:25:22.256] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 36ms
+[2019-11-15T14:31:36.214] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 33ms
+[2019-11-15T14:31:37.214] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 37ms
+[2019-11-15T14:31:41.249] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 41ms
+[2019-11-15T14:31:49.289] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 86ms
+[2019-11-15T14:32:55.479] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 110ms
+[2019-11-15T14:32:59.829] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 82ms
+[2019-11-15T14:33:08.480] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 100ms
+[2019-11-15T14:33:08.578] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 84ms
+[2019-11-15T14:33:18.229] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 45ms
+[2019-11-15T14:33:18.323] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 80ms
+[2019-11-15T14:35:50.657] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 115ms
+[2019-11-15T14:38:50.140] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 193ms
+[2019-11-15T14:40:21.699] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 45ms
+[2019-11-15T14:46:00.531] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 135ms
+[2019-11-15T14:49:49.603] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 224ms
+[2019-11-15T14:49:49.751] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 140ms
+[2019-11-15T14:49:49.898] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 142ms
+[2019-11-15T14:51:48.038] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 70ms
+[2019-11-15T14:54:40.245] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 173ms
+[2019-11-15T14:54:46.578] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 68ms
+[2019-11-15T14:56:26.842] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 271ms
+[2019-11-15T14:56:27.294] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 444ms
+[2019-11-15T14:56:31.363] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 241ms
+[2019-11-15T14:57:07.337] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 238ms
+[2019-11-15T14:57:07.705] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 358ms
+[2019-11-15T14:57:12.514] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 445ms
+[2019-11-15T14:57:24.520] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 253ms
+[2019-11-15T14:57:24.790] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 264ms
+[2019-11-15T14:57:29.641] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 192ms
+[2019-11-15T14:58:11.824] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 354ms
+[2019-11-15T14:58:12.165] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 276ms
+[2019-11-15T14:58:18.081] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 246ms
+[2019-11-15T14:58:36.258] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 369ms
+[2019-11-15T14:58:36.565] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 293ms
+[2019-11-15T14:58:39.704] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 267ms
+[2019-11-15T14:58:59.104] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 232ms
+[2019-11-15T14:58:59.364] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 253ms
+[2019-11-15T14:59:03.496] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 396ms
+[2019-11-15T15:00:29.685] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 72ms
+[2019-11-15T15:01:55.943] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 144ms
+[2019-11-15T15:01:56.061] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 69ms
+[2019-11-15T15:02:03.928] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 58ms
+[2019-11-15T15:02:04.087] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 144ms
+[2019-11-15T15:02:48.892] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 288ms
+[2019-11-15T15:02:50.368] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 148ms
+[2019-11-15T15:03:18.850] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 68ms
+[2019-11-15T15:04:40.684] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 96ms
+[2019-11-15T15:04:40.808] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 117ms
+[2019-11-15T15:09:51.685] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 86ms
+[2019-11-15T15:09:51.782] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 85ms
+[2019-11-15T15:10:18.458] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 89ms
+[2019-11-15T15:10:29.893] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 193ms
+[2019-11-15T15:10:30.022] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 121ms
+[2019-11-15T15:10:32.253] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 85ms
+[2019-11-15T15:14:03.093] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 130ms
+[2019-11-15T15:14:41.804] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 75ms
+[2019-11-15T15:15:35.361] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 76ms
+[2019-11-15T15:17:51.542] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 165ms
+[2019-11-15T15:18:09.672] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 83ms
+[2019-11-15T15:20:52.783] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 172ms
+[2019-11-15T15:22:33.987] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 228ms
+[2019-11-15T15:23:33.008] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 102ms
+[2019-11-15T15:26:12.565] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 74ms

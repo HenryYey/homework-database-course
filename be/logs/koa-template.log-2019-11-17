@@ -1,0 +1,1028 @@
+[2019-11-17T10:02:10.448] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:02:10.495] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 24ms
+[2019-11-17T10:02:15.078] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T10:02:15.123] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 32ms
+[2019-11-17T10:02:43.908] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:02:43.952] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 23ms
+[2019-11-17T10:06:07.178] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:06:07.209] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 26ms
+[2019-11-17T10:06:23.641] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:06:23.680] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 32ms
+[2019-11-17T10:06:26.898] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:06:26.945] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 35ms
+[2019-11-17T10:07:49.001] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:07:49.045] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 26ms
+[2019-11-17T10:07:50.853] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:07:50.896] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 36ms
+[2019-11-17T10:11:23.491] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:11:23.533] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 22ms
+[2019-11-17T10:11:28.091] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T10:11:28.152] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 39ms
+[2019-11-17T10:11:55.337] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:11:55.376] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T10:11:58.447] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:11:58.486] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 25ms
+[2019-11-17T10:12:20.001] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T10:12:20.043] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 29ms
+[2019-11-17T10:12:37.826] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:12:37.878] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 35ms
+[2019-11-17T10:13:30.350] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:13:30.393] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 28ms
+[2019-11-17T10:14:48.063] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:14:48.098] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 23ms
+[2019-11-17T10:15:22.399] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:15:22.432] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T10:15:23.813] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:15:23.859] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 20ms
+[2019-11-17T10:16:05.064] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T10:16:05.096] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T10:18:27.137] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T10:18:27.169] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 25ms
+[2019-11-17T10:20:49.522] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:20:49.580] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 40ms
+[2019-11-17T10:21:30.298] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:21:30.331] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 24ms
+[2019-11-17T10:30:06.118] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:30:06.155] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 28ms
+[2019-11-17T10:34:48.308] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T10:34:48.346] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-17T10:34:50.094] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T10:34:50.122] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T11:00:46.561] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-17T11:00:46.593] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T11:02:46.182] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:02:46.226] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 1ms
+[2019-11-17T11:02:49.509] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T11:02:49.556] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 27ms
+[2019-11-17T11:04:58.094] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:04:58.138] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 31ms
+[2019-11-17T11:05:25.068] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:05:25.107] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 26ms
+[2019-11-17T11:06:02.119] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T11:06:02.172] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 20ms
+[2019-11-17T11:06:04.318] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 32ms
+[2019-11-17T11:06:07.928] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-17T11:06:13.671] [INFO] [Default] - GET 200 /api/tables/getTable?name=dept - ::1 - 2ms
+[2019-11-17T11:07:01.856] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 7ms
+[2019-11-17T11:07:01.930] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 42ms
+[2019-11-17T11:08:17.991] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:08:18.025] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 25ms
+[2019-11-17T11:12:24.360] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:12:24.394] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 22ms
+[2019-11-17T11:12:26.998] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:12:27.025] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-17T11:12:37.525] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T11:12:37.557] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 3ms
+[2019-11-17T11:12:49.331] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T11:12:49.372] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 23ms
+[2019-11-17T11:12:51.407] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:12:51.440] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 21ms
+[2019-11-17T11:13:00.673] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T11:13:02.090] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T11:13:03.185] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-17T11:13:05.415] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:13:05.460] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T11:13:40.790] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 30ms
+[2019-11-17T11:13:41.468] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:13:41.486] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T11:13:41.953] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 22ms
+[2019-11-17T11:13:48.895] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 21ms
+[2019-11-17T11:15:08.737] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:15:08.760] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 8ms
+[2019-11-17T11:27:16.582] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:27:16.615] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 12ms
+[2019-11-17T11:31:09.712] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:31:09.737] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 17ms
+[2019-11-17T11:32:13.400] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:32:13.429] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T11:33:10.451] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T11:33:10.478] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T11:33:31.386] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:33:31.409] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 12ms
+[2019-11-17T11:33:36.012] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:33:36.040] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T11:35:48.537] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:35:48.567] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T11:37:10.588] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:37:10.619] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 17ms
+[2019-11-17T11:39:14.021] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:39:14.056] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 19ms
+[2019-11-17T11:40:47.844] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:40:47.870] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 13ms
+[2019-11-17T11:41:33.357] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:41:33.380] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 13ms
+[2019-11-17T11:46:03.486] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:46:03.521] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 22ms
+[2019-11-17T11:46:04.622] [INFO] [Default] - GET 200 /api/tables/getTable?name=dept - ::1 - 2ms
+[2019-11-17T11:46:06.661] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T11:47:15.907] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:47:15.940] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 20ms
+[2019-11-17T11:47:41.461] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:47:41.496] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T11:47:57.466] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:47:57.495] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 17ms
+[2019-11-17T11:48:08.816] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T11:48:08.847] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 8ms
+[2019-11-17T11:50:12.454] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:50:12.479] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-17T11:50:28.763] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:50:28.791] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 15ms
+[2019-11-17T11:52:21.422] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:52:21.450] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 17ms
+[2019-11-17T11:52:21.650] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:52:21.682] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 18ms
+[2019-11-17T11:52:22.538] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:52:22.565] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 13ms
+[2019-11-17T11:52:41.116] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T11:52:41.142] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-17T11:54:02.565] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:54:02.598] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 6ms
+[2019-11-17T11:56:15.348] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:56:15.375] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T11:56:15.578] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:56:15.602] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 15ms
+[2019-11-17T11:56:15.801] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:56:15.826] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 15ms
+[2019-11-17T11:56:18.769] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T11:56:18.799] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T11:56:21.190] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 2ms
+[2019-11-17T11:56:37.425] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T11:56:40.304] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-17T11:56:50.296] [INFO] [Default] - POST 404 /api/tables/updataRow - ::1 - 23ms
+[2019-11-17T11:56:55.961] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T11:56:56.002] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 20ms
+[2019-11-17T11:59:16.592] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T11:59:16.626] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 8ms
+[2019-11-17T11:59:16.848] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T11:59:16.868] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T12:00:21.055] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T12:00:21.087] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 15ms
+[2019-11-17T12:00:39.992] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T12:00:40.020] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 12ms
+[2019-11-17T12:00:47.897] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 20ms
+[2019-11-17T12:00:59.872] [INFO] [Default] - POST 404 /api/tables/updataRow - ::1 - 13ms
+[2019-11-17T12:01:45.631] [INFO] [Default] - POST 404 /api/tables/updataRow - ::1 - 17ms
+[2019-11-17T12:02:04.034] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T12:02:04.086] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 26ms
+[2019-11-17T12:02:07.432] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-17T12:02:11.509] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'pname = 'null'qoh = 'null'qoh_threshold = 'null'original_price = 'null'discnt_ra' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:02:11.513] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 31ms
+[2019-11-17T12:02:11.563] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 43ms
+[2019-11-17T12:04:58.200] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 13ms
+[2019-11-17T12:04:58.236] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 12ms
+[2019-11-17T12:05:02.221] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 'null', TYPE = 'null', AMNT = 'null', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:05:02.248] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 45ms
+[2019-11-17T12:05:02.258] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 3ms
+[2019-11-17T12:05:37.940] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:05:37.969] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T12:05:45.093] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 'null', TYPE = 'null', AMNT = 'null', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:05:45.119] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 28ms
+[2019-11-17T12:05:45.125] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 2ms
+[2019-11-17T12:06:32.415] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T12:06:32.451] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 25ms
+[2019-11-17T12:06:35.308] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 'null', TYPE = 'null', AMNT = 'null', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:06:35.342] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 37ms
+[2019-11-17T12:06:35.375] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 28ms
+[2019-11-17T12:09:32.327] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T12:09:32.413] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 37ms
+[2019-11-17T12:11:38.064] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:11:38.098] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 14ms
+[2019-11-17T12:11:44.597] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:11:44.635] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 25ms
+[2019-11-17T12:11:48.373] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 'EMPNO', TYPE = 'TYPE', AMNT = 'AMNT', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:11:48.406] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 36ms
+[2019-11-17T12:11:48.439] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 27ms
+[2019-11-17T12:12:20.461] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T12:12:20.550] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 61ms
+[2019-11-17T12:12:23.868] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = '7499', TYPE = 'M', AMNT = '220000', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:12:23.896] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 31ms
+[2019-11-17T12:12:23.929] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 28ms
+[2019-11-17T12:13:21.553] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 10ms
+[2019-11-17T12:13:21.627] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 50ms
+[2019-11-17T12:13:25.276] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = '7499', TYPE = 'M', AMNT = '220000', OUTST = 'null',' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:13:25.280] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 47ms
+[2019-11-17T12:13:25.310] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 25ms
+[2019-11-17T12:16:11.641] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 10ms
+[2019-11-17T12:16:11.661] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 4ms
+[2019-11-17T12:16:15.363] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 7499, TYPE = M, AMNT = 220000, OUTST = null,' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:16:15.382] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 37ms
+[2019-11-17T12:16:15.423] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 36ms
+[2019-11-17T12:19:37.381] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 10ms
+[2019-11-17T12:19:37.417] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 16ms
+[2019-11-17T12:19:42.092] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EMPNO = 7499, TYPE = M, AMNT = 220000, OUTST = null,' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:19:42.113] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 39ms
+[2019-11-17T12:19:42.156] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 37ms
+[2019-11-17T12:20:31.243] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T12:20:31.272] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts - ::1 - 9ms
+[2019-11-17T12:20:33.731] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:20:33.734] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 36ms
+[2019-11-17T12:20:33.743] [INFO] [Default] - GET 200 /api/tables/getTable?name=accounts,clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 3ms
+[2019-11-17T12:48:57.349] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T12:48:57.390] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 24ms
+[2019-11-17T12:49:05.096] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:49:05.137] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 27ms
+[2019-11-17T12:49:23.733] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:49:23.771] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 17ms
+[2019-11-17T12:50:28.616] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T12:50:28.653] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 19ms
+[2019-11-17T12:50:35.701] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 1ms
+[2019-11-17T12:50:45.748] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T12:51:24.822] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-17T12:51:24.861] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 8ms
+[2019-11-17T12:51:33.674] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':00:00.000Z WHERE id = '1'' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:51:33.677] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 40ms
+[2019-11-17T12:51:33.770] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 86ms
+[2019-11-17T12:54:20.268] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T12:54:20.291] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 7ms
+[2019-11-17T12:54:25.402] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':00:00.000Z, WHERE id = '1'' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:54:25.405] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 39ms
+[2019-11-17T12:54:25.440] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 29ms
+[2019-11-17T12:55:19.449] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-17T12:55:19.485] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 16ms
+[2019-11-17T12:55:21.851] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect date value: '2020-01-14T16:00:00.000Z' for column 'end_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:111:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T12:55:21.854] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 41ms
+[2019-11-17T12:55:21.956] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 95ms
+[2019-11-17T12:57:42.141] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:57:42.161] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T12:57:45.229] [INFO] [Default] - GET 200 /api/tables/getTable?name=dept - ::1 - 2ms
+[2019-11-17T12:57:50.625] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-17T12:57:55.078] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 40ms
+[2019-11-17T12:57:55.103] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock,customers,dept,emp2017132090,employees,entity_table,logs,products,purchases,suppliers,user - ::1 - 18ms
+[2019-11-17T12:59:46.593] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T12:59:46.642] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 28ms
+[2019-11-17T13:03:15.010] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T13:03:15.038] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:07:23.390] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:07:23.427] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 16ms
+[2019-11-17T13:07:28.508] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:07:28.575] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 28ms
+[2019-11-17T13:07:28.634] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 55ms
+[2019-11-17T13:07:28.645] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 1ms
+[2019-11-17T13:08:16.833] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:08:16.886] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 32ms
+[2019-11-17T13:08:30.967] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:08:31.016] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 25ms
+[2019-11-17T13:08:53.301] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:08:53.344] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 18ms
+[2019-11-17T13:08:55.292] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:08:55.339] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 25ms
+[2019-11-17T13:09:32.331] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:09:32.359] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:09:34.881] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:09:34.927] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 13ms
+[2019-11-17T13:10:02.887] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:10:02.928] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 10ms
+[2019-11-17T13:10:04.841] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:10:04.867] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:10:19.782] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:10:19.813] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:10:33.815] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:10:33.845] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 15ms
+[2019-11-17T13:10:36.578] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T13:10:36.613] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 12ms
+[2019-11-17T13:10:45.347] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:10:45.383] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:10:47.702] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:10:47.738] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T13:11:00.489] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:11:00.522] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:11:19.112] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:11:19.139] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 12ms
+[2019-11-17T13:11:20.946] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:11:20.979] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T13:11:27.876] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:11:27.908] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:11:30.557] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:11:30.589] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:11:36.414] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:11:36.467] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 17ms
+[2019-11-17T13:11:39.810] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:11:39.839] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 7ms
+[2019-11-17T13:12:05.170] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:12:05.204] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 7ms
+[2019-11-17T13:12:18.021] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:12:18.054] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 18ms
+[2019-11-17T13:12:19.907] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:12:19.939] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 11ms
+[2019-11-17T13:12:31.970] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:12:31.997] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T13:12:36.972] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:12:37.004] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 18ms
+[2019-11-17T13:12:44.631] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:12:44.664] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 12ms
+[2019-11-17T13:12:55.763] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T13:12:55.800] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T13:12:56.964] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:12:56.994] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T13:13:07.457] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:13:07.487] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:13:09.055] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:13:09.090] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:13:29.237] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:13:29.265] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:13:38.148] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:13:38.192] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 25ms
+[2019-11-17T13:13:42.342] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:13:42.376] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 11ms
+[2019-11-17T13:14:07.521] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:14:07.549] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:14:10.784] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:14:10.817] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 9ms
+[2019-11-17T13:14:23.816] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:14:23.855] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:14:28.488] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:14:28.529] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 8ms
+[2019-11-17T13:15:02.944] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:15:02.980] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 6ms
+[2019-11-17T13:15:04.713] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:15:04.745] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 7ms
+[2019-11-17T13:16:27.766] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:16:27.796] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 4ms
+[2019-11-17T13:16:29.204] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:16:29.230] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:16:40.539] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:16:40.574] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 8ms
+[2019-11-17T13:16:41.786] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:16:41.822] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 13ms
+[2019-11-17T13:16:57.489] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:16:57.518] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T13:16:59.214] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:16:59.239] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:17:10.303] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:17:10.338] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T13:17:23.812] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:17:23.859] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 15ms
+[2019-11-17T13:17:39.321] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T13:17:39.352] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 22ms
+[2019-11-17T13:17:41.160] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T13:17:41.233] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 27ms
+[2019-11-17T13:17:52.992] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:17:53.019] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T13:17:53.916] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:17:53.951] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:18:03.048] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:18:03.091] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 11ms
+[2019-11-17T13:18:03.961] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:18:03.989] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 16ms
+[2019-11-17T13:18:28.597] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:18:28.628] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 17ms
+[2019-11-17T13:18:30.961] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:18:30.990] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 2ms
+[2019-11-17T13:18:36.526] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:18:36.560] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:18:37.300] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T13:18:37.324] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 10ms
+[2019-11-17T13:19:00.096] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:00.121] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 14ms
+[2019-11-17T13:19:03.115] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:03.153] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 12ms
+[2019-11-17T13:19:15.915] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:15.946] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 8ms
+[2019-11-17T13:19:17.616] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:17.657] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 9ms
+[2019-11-17T13:19:24.789] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:19:24.826] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 3ms
+[2019-11-17T13:19:26.088] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:26.141] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 20ms
+[2019-11-17T13:19:37.814] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:19:37.844] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 5ms
+[2019-11-17T13:19:55.891] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:19:55.924] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 17ms
+[2019-11-17T13:19:57.448] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T13:19:57.501] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 21ms
+[2019-11-17T13:20:25.531] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2020-01-14T16:00:00.000Z' for column 'end_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:110:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T13:20:25.534] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 45ms
+[2019-11-17T13:20:25.589] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 47ms
+[2019-11-17T13:20:28.884] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 1ms
+[2019-11-17T13:20:28.919] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 10ms
+[2019-11-17T13:21:06.397] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2020-01-15T00:00:00.000Z' for column 'end_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:110:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T13:21:06.401] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 36ms
+[2019-11-17T13:21:06.439] [INFO] [Default] - GET 200 /api/tables/getTable?name=clock - ::1 - 31ms
+[2019-11-17T13:22:34.924] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T13:22:34.948] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T13:22:47.738] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 18ms
+[2019-11-17T13:24:50.435] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 9ms
+[2019-11-17T13:24:50.479] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-17T13:24:57.419] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '2017-11-29T02:25:32.000Z' for column 'last_visit_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:110:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T13:24:57.437] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 36ms
+[2019-11-17T13:24:57.444] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 1ms
+[2019-11-17T13:25:22.951] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'c000'' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:110:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T13:25:22.965] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 32ms
+[2019-11-17T13:25:23.013] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 42ms
+[2019-11-17T13:26:00.261] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 10ms
+[2019-11-17T13:26:00.287] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-17T13:26:03.873] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 34ms
+[2019-11-17T13:26:03.908] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 28ms
+[2019-11-17T13:26:11.457] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T13:26:11.496] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-17T13:26:15.483] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 27ms
+[2019-11-17T13:26:15.490] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T13:28:11.279] [INFO] [Default] - GET 200 /api/tables/getTable?name=dept - ::1 - 3ms
+[2019-11-17T13:28:12.375] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 3ms
+[2019-11-17T13:28:14.514] [INFO] [Default] - GET 200 /api/tables/getTable?name=logs - ::1 - 3ms
+[2019-11-17T16:00:32.533] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 10ms
+[2019-11-17T16:00:32.562] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-17T16:03:50.152] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:03:50.192] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T16:03:50.220] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:03:50.236] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T16:04:03.159] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:04:03.193] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T16:04:05.642] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:04:05.683] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-17T16:04:09.127] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:04:09.172] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T16:04:31.277] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:04:31.332] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-17T16:04:54.324] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:04:54.386] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 29ms
+[2019-11-17T16:04:56.559] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:04:56.619] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 13ms
+[2019-11-17T16:05:46.547] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:05:46.591] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-17T16:05:50.205] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:05:50.246] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:05:55.802] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:05:55.852] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 9ms
+[2019-11-17T16:06:04.584] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 29ms
+[2019-11-17T16:07:24.594] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:07:24.626] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T16:07:24.658] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 7ms
+[2019-11-17T16:07:24.687] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-17T16:07:28.457] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:07:28.526] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 27ms
+[2019-11-17T16:07:45.342] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:07:45.389] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-17T16:07:48.119] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:07:48.172] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 9ms
+[2019-11-17T16:08:03.763] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:08:03.807] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-17T16:08:06.805] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:08:06.858] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 22ms
+[2019-11-17T16:08:56.419] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 8ms
+[2019-11-17T16:08:56.468] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 13ms
+[2019-11-17T16:08:58.783] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:08:58.830] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 12ms
+[2019-11-17T16:09:03.625] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:09:03.665] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-17T16:09:13.119] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:09:13.171] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:09:15.740] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:09:15.785] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:10:04.131] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 15ms
+[2019-11-17T16:10:04.165] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:10:59.584] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 6ms
+[2019-11-17T16:10:59.658] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-17T16:11:02.211] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:11:02.255] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-17T16:11:28.525] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:11:28.591] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 34ms
+[2019-11-17T16:11:33.673] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:11:33.725] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-17T16:11:58.453] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:11:58.493] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 13ms
+[2019-11-17T16:12:00.749] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:12:00.799] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-17T16:12:04.519] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T16:12:04.572] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-17T16:12:07.825] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:12:07.886] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 27ms
+[2019-11-17T16:12:27.466] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:12:27.503] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 10ms
+[2019-11-17T16:12:31.057] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:12:31.109] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-17T16:13:35.432] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:13:35.466] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-17T16:13:39.781] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:13:39.824] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:14:30.059] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T16:14:30.099] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-17T16:14:32.300] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:14:32.345] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T16:14:37.909] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T16:14:37.961] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-17T16:14:40.129] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:14:40.244] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 76ms
+[2019-11-17T16:15:05.589] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:15:05.616] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T16:15:06.519] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:15:06.582] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 32ms
+[2019-11-17T16:15:28.099] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 42ms
+[2019-11-17T16:15:28.141] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 32ms
+[2019-11-17T16:15:32.340] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:15:32.395] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-17T16:19:05.496] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 16ms
+[2019-11-17T16:19:05.542] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 25ms
+[2019-11-17T16:19:41.232] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 18ms
+[2019-11-17T16:19:41.263] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-17T16:19:42.824] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T16:19:42.865] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-17T16:19:44.189] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:19:44.239] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T16:20:14.364] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:20:14.406] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-17T16:20:16.548] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:20:16.600] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-17T16:20:41.135] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:20:41.177] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 9ms
+[2019-11-17T16:21:03.289] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:21:03.316] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T16:21:17.390] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:21:17.437] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-17T16:21:32.901] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:21:32.946] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T16:23:56.046] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 16ms
+[2019-11-17T16:23:56.079] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-17T16:24:32.404] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 13ms
+[2019-11-17T16:24:32.434] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-17T16:24:34.167] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:24:34.202] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T16:25:41.246] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 15ms
+[2019-11-17T16:25:41.308] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 38ms
+[2019-11-17T16:47:23.512] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 12ms
+[2019-11-17T16:47:23.544] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 7ms
+[2019-11-17T16:47:35.039] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T16:47:35.075] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-17T16:50:04.716] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:50:04.766] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T16:50:33.053] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T16:50:33.107] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 26ms
+[2019-11-17T16:52:12.157] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:52:12.197] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T16:52:21.714] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T16:52:21.756] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 24ms
+[2019-11-17T16:52:27.003] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T16:52:27.058] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-17T16:52:29.914] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 2ms
+[2019-11-17T16:52:35.572] [INFO] [Default] - POST 404 /api/tables/deleteRow - ::1 - 14ms
+[2019-11-17T16:52:35.607] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 33ms
+[2019-11-17T16:53:09.057] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = null, JOB = null, MGR = null, HIREDATE = null, SAL = null, COMM = null' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T16:53:09.097] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 74ms
+[2019-11-17T16:53:09.106] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 68ms
+[2019-11-17T16:54:18.027] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 15ms
+[2019-11-17T16:54:18.060] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-17T16:54:21.333] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 2ms
+[2019-11-17T16:54:24.292] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = null, JOB = null, MGR = null, HIREDATE = null, SAL = null, COMM = null' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T16:54:24.343] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 122ms
+[2019-11-17T16:54:24.347] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 62ms
+[2019-11-17T16:54:54.574] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = null, JOB = null, MGR = null, HIREDATE = null, SAL = null, COMM = null' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T16:54:54.599] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 58ms
+[2019-11-17T16:54:54.604] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 42ms
+[2019-11-17T16:56:51.635] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 14ms
+[2019-11-17T16:56:51.662] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-17T16:56:54.875] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 2ms
+[2019-11-17T16:56:57.311] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = null, JOB = null, MGR = null, HIREDATE = null, SAL = null, COMM = null' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T16:56:57.315] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 59ms
+[2019-11-17T16:56:57.369] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 64ms
+[2019-11-17T16:58:02.974] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = null, JOB = null, MGR = null, HIREDATE = null, SAL = null, COMM = null' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T16:58:02.980] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 48ms
+[2019-11-17T16:58:03.026] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 71ms
+[2019-11-17T17:00:09.262] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 16ms
+[2019-11-17T17:00:09.336] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-17T17:00:11.392] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 3ms
+[2019-11-17T17:00:13.383] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = 'FORD', JOB = 'ANALYST', MGR = '7566', HIREDATE = '1991-12-02', SAL = ' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T17:00:13.386] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 47ms
+[2019-11-17T17:00:13.437] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 60ms
+[2019-11-17T17:05:07.753] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 13ms
+[2019-11-17T17:05:07.782] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-17T17:05:11.476] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 2ms
+[2019-11-17T17:05:17.200] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', ENAME = 'JAMES', JOB = 'CLERK', MGR = '7698', HIREDATE = '1995-12-02', SAL = '' at line 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:143:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T17:05:17.204] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 51ms
+[2019-11-17T17:05:17.247] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 55ms
+[2019-11-17T17:05:17.313] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 62ms
+[2019-11-17T17:08:22.116] [INFO] [Default] - POST 200 /api/tables/deleteRow - ::1 - 45ms
+[2019-11-17T17:08:22.125] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 26ms
+[2019-11-17T17:08:22.165] [INFO] [Default] - GET 200 /api/tables/getTable?name=emp2017132090 - ::1 - 34ms
+[2019-11-17T17:08:56.163] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 40ms
+[2019-11-17T17:11:01.324] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 31ms
+[2019-11-17T17:11:01.354] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 24ms
+[2019-11-17T17:11:03.758] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 36ms
+[2019-11-17T17:11:44.429] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 34ms
+[2019-11-17T17:11:49.527] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 37ms
+[2019-11-17T17:11:51.249] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T17:11:51.277] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-17T17:14:26.683] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T17:14:26.716] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-17T17:14:28.616] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T17:14:28.651] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-17T17:14:31.731] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 2ms
+[2019-11-17T17:14:31.782] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 22ms
+[2019-11-17T17:19:55.295] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 27ms
+[2019-11-17T17:20:00.780] [ERROR] [Default] - Error: [ERROR] - ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: 'Invalid date' for column 'start_time' at row 1
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\index.js:46:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T17:20:00.786] [INFO] [Default] - POST 200 /api/time/addEvents - ::1 - 25ms
+[2019-11-17T17:20:00.818] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 23ms
+[2019-11-17T17:20:24.812] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 16ms
+[2019-11-17T17:20:39.906] [INFO] [Default] - GET 200 /api/time/getEvents - ::1 - 17ms
+[2019-11-17T17:21:25.234] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T17:21:25.262] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 9ms
+[2019-11-17T17:21:27.481] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T17:21:27.514] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T17:21:31.607] [INFO] [Default] - GET 200 /api/tables/getTable?name=user - ::1 - 3ms
+[2019-11-17T17:21:35.934] [INFO] [Default] - GET 200 /api/tables/getTable?name=dept - ::1 - 2ms
+[2019-11-17T17:21:36.992] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 3ms
+[2019-11-17T17:21:39.480] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-17T18:01:29.127] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 4ms
+[2019-11-17T18:01:29.165] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-17T18:10:00.767] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 5ms
+[2019-11-17T18:10:00.800] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 10ms
+[2019-11-17T18:19:00.048] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 3ms
+[2019-11-17T18:19:00.080] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-17T18:52:12.553] [ERROR] [Default] - ReferenceError: connection is not defined
+    at Promise (F:\myAdmin-vue\Koa-template\services\login.js:12:5)
+    at new Promise (<anonymous>)
+    at login.login (F:\myAdmin-vue\Koa-template\services\login.js:11:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-compose\index.js:42:32)
+[2019-11-17T18:52:12.578] [INFO] [Default] - POST 200 /api/user/login - ::1 - 38ms
+[2019-11-17T18:53:20.055] [ERROR] [Default] - TypeError: connection.query(...).then is not a function
+    at Promise (F:\myAdmin-vue\Koa-template\services\login.js:28:8)
+    at new Promise (<anonymous>)
+    at login.login (F:\myAdmin-vue\Koa-template\services\login.js:21:10)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at F:\myAdmin-vue\Koa-template\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (F:\myAdmin-vue\Koa-template\node_modules\koa-compose\index.js:42:32)
+[2019-11-17T18:53:20.092] [INFO] [Default] - POST 200 /api/user/login - ::1 - 57ms
+[2019-11-17T18:54:00.907] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T18:54:00.912] [INFO] [Default] - POST 200 /api/user/login - ::1 - 23ms
+[2019-11-17T18:54:33.568] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T18:54:33.605] [INFO] [Default] - POST 200 /api/user/login - ::1 - 39ms
+[2019-11-17T18:54:50.192] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T18:54:50.235] [INFO] [Default] - POST 200 /api/user/login - ::1 - 44ms
+[2019-11-17T18:55:11.779] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T18:55:11.830] [INFO] [Default] - POST 200 /api/user/login - ::1 - 52ms
+[2019-11-17T21:00:42.218] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:00:42.257] [INFO] [Default] - POST 200 /api/user/login - ::1 - 57ms
+[2019-11-17T21:00:48.880] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:24:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:00:48.926] [INFO] [Default] - POST 200 /api/user/login - ::1 - 48ms
+[2019-11-17T21:01:41.613] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:26:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:01:41.627] [INFO] [Default] - POST 200 /api/user/login - ::1 - 31ms
+[2019-11-17T21:11:53.273] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:26:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:11:53.288] [INFO] [Default] - POST 200 /api/user/login - ::1 - 32ms
+[2019-11-17T21:12:32.142] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:26:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:12:32.188] [INFO] [Default] - POST 200 /api/user/login - ::1 - 48ms
+[2019-11-17T21:12:59.991] [ERROR] [Default] - Error: [ERROR] - 用户名或者密码错误
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\services\login.js:26:16)
+    at Query.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\myAdmin-vue\Koa-template\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-17T21:13:00.010] [INFO] [Default] - POST 200 /api/user/login - ::1 - 21ms
+[2019-11-17T21:17:08.196] [INFO] [Default] - POST 200 /api/user/login - ::1 - 20ms
+[2019-11-17T21:17:28.219] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-17T21:17:28.916] [INFO] [Default] - POST 200 /api/user/login - ::1 - 3ms
+[2019-11-17T21:17:29.058] [INFO] [Default] - POST 200 /api/user/login - ::1 - 1ms
+[2019-11-17T21:17:29.188] [INFO] [Default] - POST 200 /api/user/login - ::1 - 2ms

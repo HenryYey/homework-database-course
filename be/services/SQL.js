@@ -10,6 +10,12 @@ const getRows = (table) => {
   return `SELECT  * FROM ${table}`
 }
 // keys和vals为字符串数组 
+const insertRow = (table, keys, vals) => {
+  const keys_str = keys.join(",");
+  const vals_str = vals.join(",");
+  return `INSERT INTO  ${table} ( ${keys_str} ) VALUES ( ${vals_str})`
+}
+// keys和vals为字符串数组 
 const updateRowByKeys = (table, keys, vals) => {
   let str = `${keys[0]} = '${vals[0]}'`
   if (keys.length > 1) {
@@ -61,6 +67,7 @@ module.exports = {
   addEvents,
   getTablesName,
   getRows,
+  insertRow,
   updateRowByKeys,
   deleteRowByKeys,
   operateLog

@@ -14,6 +14,7 @@
         </template>
       </el-dropdown-menu>
     </el-dropdown>
+    <el-button @click="handleAdd()" type="primary" style="margin-left: 60px;">新 增</el-button>
     <span class="table-name">{{tableName}}</span>
     <el-table :data="tableData" stripe class="custom-table">
       <el-table-column label="操作" width="120">
@@ -27,7 +28,7 @@
         <el-table-column :key="index" :prop="item" :label="item" sort-by sortable></el-table-column>
       </template>
     </el-table>
-    <el-dialog title="编辑" :visible.sync="dialogFormVisible">
+    <el-dialog title="编辑" :visible.sync="updateVisble">
       <div class="table-form">
         <el-form label-position="right" label-width="120px" :model="row">
           <template v-for="(item, index) in tableLabel">
@@ -42,11 +43,25 @@
         </el-form>
       </div>
     </el-dialog>
+    <el-dialog title="新增" :visible.sync="insertVisble">
+      <div class="table-form">
+        <el-form label-position="right" label-width="120px">
+          <template v-for="(item, index) in tableLabel">
+            <el-form-item :key="index" :label="item">
+              <el-input v-model="newobj[item]"></el-input>
+            </el-form-item>
+          </template>
+          <el-form-item>
+            <el-button type="primary" @click="submitAddForm()">提交</el-button>
+          </el-form-item>
+        </el-form>
+      </div>
+    </el-dialog>
   </div>
 </template>
  
 <script>
-import { getTables, getTable, updateRow, deleteRow } from "../../api/table";
+import { getTables, getTable, insertRow, updateRow, deleteRow } from "../../api/table";
 const moment = require("moment");
 
 export default {
@@ -58,7 +73,9 @@ export default {
       tableData: [],
       tableLabel: [],
       row: {},
-      dialogFormVisible: false,
+      newobj: {},
+      updateVisble: false,
+      insertVisble: false,
       infoDelVisible: false,
       tableName: ""
     };
@@ -107,10 +124,45 @@ export default {
     handleClick() {},
     handleEdit(row) {
       console.log(row);
-      this.dialogFormVisible = true;
+      this.updateVisble = true;
       this.row = row;
     },
+    handleAdd() {
+      this.insertVisble = true;
+    },
+    submitAddForm() {
+      let data = this.newobj;
+      let vals = [];
 
+      this.tableLabel.forEach(item => {
+        if (!data[item]) {
+          vals.push("");
+        } else {
+          vals.push(data[item]);
+        }
+      });
+      insertRow({
+        name: this.tableName,
+        keys: this.tableLabel,
+        vals
+      })
+        .then(res => {
+          this.getTableByName(this.tableName);
+          this.insertVisble = false;
+          console.log(res);
+          this.$message({
+            message: res.data.data.message || "操作成功",
+            type: "success"
+          });
+        })
+        .catch(err => {
+          this.updateVisble = false;
+          this.$message({
+            message: "操作失败, " + err,
+            type: "error"
+          });
+        });
+    },
     submitForm(data) {
       console.log("data", data);
       let vals = [];
@@ -129,14 +181,14 @@ export default {
       })
         .then(res => {
           this.getTableByName(this.tableName);
-          this.dialogFormVisible = false;
+          this.updateVisble = false;
           this.$message({
             message: "操作成功",
             type: "success"
           });
         })
         .catch(err => {
-          this.dialogFormVisible = false;
+          this.updateVisble = false;
           this.$message({
             message: "操作失败, " + err,
             type: "error"

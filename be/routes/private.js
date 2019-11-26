@@ -15,6 +15,7 @@ router.get('/tables/getTables', controllers.tables.getTables)
 router.get('/tables/getTable', controllers.tables.getTable)
 router.post('/time/addEvents', controllers.timer.addEvents)
 router.post('/tables/updateRow', controllers.tables.updateRow)
+router.post('/tables/insertRow', controllers.tables.insertRow)
 router.post('/tables/deleteRow', controllers.tables.deleteRow)
 
 module.exports = router

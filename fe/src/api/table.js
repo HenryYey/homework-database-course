@@ -15,3 +15,7 @@ export function updateRow(data) {
 export function deleteRow(data) {
   return http.post('/tables/deleteRow', data)
 }
+
+export function insertRow(data) {
+  return http.post('/tables/insertRow', data)
+}

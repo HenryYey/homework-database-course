@@ -7,7 +7,7 @@
             <el-menu-item index="/course/time">计算时间</el-menu-item>
             <el-menu-item index="/course/table">表格</el-menu-item>
             <el-menu-item index="/course/log">日志查看</el-menu-item>
-            <el-menu-item route index="/course/viewData">可视化数据</el-menu-item>
+            <el-menu-item index="/course/shopcar">购物车</el-menu-item>
           </el-menu-item-group>
         </el-submenu>
       </el-menu>

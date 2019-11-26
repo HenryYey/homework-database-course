@@ -3,7 +3,7 @@ const SQL = require('./SQL');
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '123456',
+  password: '107157',
   database: 'course'
 });
 
@@ -125,6 +125,25 @@ tables.updateRow = async (ctx, next) => {
   })
 }
 
+tables.insertRow = async (ctx, next) => {
+  const { name, keys, vals } = ctx.request.body
+  console.log(name, keys, vals)
+  return new Promise((resolve, reject) => {
+    connection.query(SQL.insertRow(name, keys, vals), function (err, result) {
+      console.log(SQL.insertRow(name, keys, vals));
+      if (err) {
+        reject(new Error('[ERROR] - ' + err.message));
+      }
+      logger(name, keys, vals, 'INSERT');
+      resolve(result);
+    });
+  }).then(res => {
+    ctx.result = res
+    return next()
+  }).catch(err => {
+    throw err;
+  })
+}
 tables.deleteRow = async (ctx, next) => {
   const {
     name,

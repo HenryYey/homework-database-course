@@ -1,3 +1,693 @@
-[2019-11-25T12:51:51.090] [INFO] [Default] - POST 200 /api/user/login - ::1 - 117ms
-[2019-11-25T12:51:54.612] [INFO] [Default] - GET 200 /api/tables/getTables - ::1 - 18ms
-[2019-11-25T12:51:54.635] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-30T09:29:23.565] [INFO] [Default] - POST 200 /api/user/login - ::1 - 43ms
+[2019-11-30T09:29:33.682] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 5ms
+[2019-11-30T09:29:33.683] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T09:30:48.114] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T09:30:48.115] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-30T09:30:54.238] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T09:30:54.240] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T09:39:50.856] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 6ms
+[2019-11-30T09:39:50.871] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T09:39:54.049] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 19ms
+[2019-11-30T09:39:54.053] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 22ms
+[2019-11-30T09:39:58.467] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T09:39:58.471] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-30T09:39:59.851] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 12ms
+[2019-11-30T09:39:59.853] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 12ms
+[2019-11-30T09:41:05.481] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 14ms
+[2019-11-30T09:41:05.483] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-30T09:41:05.490] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 6ms
+[2019-11-30T09:41:05.501] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T09:41:07.971] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T09:41:07.974] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T09:41:09.719] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T09:41:09.732] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T09:41:10.507] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:41:10.510] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T09:41:10.690] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:41:10.693] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T09:41:10.872] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 18ms
+[2019-11-30T09:41:10.874] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-30T09:41:11.035] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 12ms
+[2019-11-30T09:41:11.037] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 13ms
+[2019-11-30T09:41:11.206] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 10ms
+[2019-11-30T09:41:11.209] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 12ms
+[2019-11-30T09:41:11.492] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T09:41:11.504] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-30T09:41:14.318] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T09:41:14.322] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-30T09:41:26.133] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T09:41:26.138] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T09:41:36.887] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 10ms
+[2019-11-30T09:41:36.889] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 10ms
+[2019-11-30T09:41:39.129] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T09:41:39.131] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 22ms
+[2019-11-30T09:42:20.906] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T09:42:20.908] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T09:42:22.087] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T09:42:22.097] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-30T09:42:29.632] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 27ms
+[2019-11-30T09:42:29.638] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T09:42:32.019] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:42:32.021] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T09:42:39.474] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 13ms
+[2019-11-30T09:42:39.479] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T09:43:10.594] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:43:10.597] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T09:43:12.894] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 12ms
+[2019-11-30T09:43:12.898] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T09:43:37.119] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:43:37.121] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T09:43:38.528] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T09:43:38.547] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T09:43:50.669] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T09:43:50.682] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 14ms
+[2019-11-30T09:43:55.425] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 22ms
+[2019-11-30T09:43:55.428] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-30T09:45:03.960] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T09:45:03.965] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-30T09:45:26.267] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 19ms
+[2019-11-30T09:45:26.268] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T09:45:54.476] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 18ms
+[2019-11-30T09:45:54.478] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T09:45:56.230] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T09:45:56.235] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T09:57:59.291] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 4ms
+[2019-11-30T09:57:59.306] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T10:00:35.925] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:00:35.928] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-30T10:00:39.710] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 19ms
+[2019-11-30T10:00:39.713] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T10:00:41.960] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T10:00:41.967] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-30T10:01:09.247] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 18ms
+[2019-11-30T10:01:09.249] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T10:03:45.750] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:03:45.754] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 19ms
+[2019-11-30T10:06:23.497] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:06:23.502] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T10:44:17.278] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:44:17.281] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-30T10:44:25.774] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 20ms
+[2019-11-30T10:44:25.779] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-30T10:52:27.146] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:52:27.147] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T10:53:00.366] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T10:53:00.369] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-30T10:53:03.705] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T10:53:03.720] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 17ms
+[2019-11-30T10:53:34.379] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T10:53:34.380] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T10:54:02.441] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 23ms
+[2019-11-30T10:54:02.444] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-30T10:54:04.323] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T10:54:04.337] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T10:55:00.830] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 25ms
+[2019-11-30T10:55:00.833] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-30T10:55:02.666] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T10:55:02.667] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T10:55:17.933] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 23ms
+[2019-11-30T10:55:17.936] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 24ms
+[2019-11-30T10:55:40.830] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 20ms
+[2019-11-30T10:55:40.832] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 20ms
+[2019-11-30T10:55:41.818] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T10:55:41.821] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T10:55:43.767] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 13ms
+[2019-11-30T10:55:43.771] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T10:55:56.047] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 18ms
+[2019-11-30T10:55:56.049] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T10:56:01.607] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T10:56:01.608] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T10:56:05.887] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 31ms
+[2019-11-30T10:56:05.899] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 40ms
+[2019-11-30T10:56:22.181] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T10:56:22.186] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 18ms
+[2019-11-30T10:56:49.575] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 20ms
+[2019-11-30T10:56:49.578] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T10:56:55.319] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 15ms
+[2019-11-30T10:56:55.322] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T10:56:56.679] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T10:56:56.689] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-30T11:04:20.616] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:06:35.548] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:06:38.470] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:07:00.557] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:07:11.880] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:07:12.875] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T11:07:24.110] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T11:07:46.285] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 1ms
+[2019-11-30T11:08:34.886] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 4ms
+[2019-11-30T11:08:49.768] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T11:09:19.792] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T11:09:46.101] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T11:09:51.059] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 4ms
+[2019-11-30T11:09:58.025] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:10:03.956] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T11:10:15.174] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 22ms
+[2019-11-30T11:10:15.178] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-30T11:10:15.181] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 26ms
+[2019-11-30T11:10:16.378] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T11:10:16.379] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T11:10:16.381] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 22ms
+[2019-11-30T11:13:13.236] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T11:13:13.255] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 2ms
+[2019-11-30T11:13:13.290] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 36ms
+[2019-11-30T15:28:25.469] [INFO] [Default] - POST 200 /api/user/login - ::1 - 23ms
+[2019-11-30T15:28:38.051] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 16ms
+[2019-11-30T15:28:38.054] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 16ms
+[2019-11-30T15:28:38.056] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 16ms
+[2019-11-30T15:28:49.649] [ERROR] [Default] - TypeError: Cannot read property '0' of undefined
+    at Object.updateRowByKeys (F:\数据库系统\homework3\be\services\SQL.js:20:20)
+    at Promise (F:\数据库系统\homework3\be\services\index.js:113:26)
+    at new Promise (<anonymous>)
+    at tables.updateRow (F:\数据库系统\homework3\be\services\index.js:112:10)
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\数据库系统\homework3\be\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at module.exports (F:\数据库系统\homework3\be\middlewares\jwt.js:28:10)
+[2019-11-30T15:28:49.668] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 25ms
+[2019-11-30T15:28:49.678] [ERROR] [Default] - TypeError: Cannot read property '0' of undefined
+    at Object.updateRowByKeys (F:\数据库系统\homework3\be\services\SQL.js:20:20)
+    at Promise (F:\数据库系统\homework3\be\services\index.js:113:26)
+    at new Promise (<anonymous>)
+    at tables.updateRow (F:\数据库系统\homework3\be\services\index.js:112:10)
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\数据库系统\homework3\be\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at module.exports (F:\数据库系统\homework3\be\middlewares\jwt.js:28:10)
+[2019-11-30T15:28:49.710] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 35ms
+[2019-11-30T15:28:49.712] [ERROR] [Default] - TypeError: Cannot read property '0' of undefined
+    at Object.updateRowByKeys (F:\数据库系统\homework3\be\services\SQL.js:20:20)
+    at Promise (F:\数据库系统\homework3\be\services\index.js:113:26)
+    at new Promise (<anonymous>)
+    at tables.updateRow (F:\数据库系统\homework3\be\services\index.js:112:10)
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\数据库系统\homework3\be\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at module.exports (F:\数据库系统\homework3\be\middlewares\jwt.js:28:10)
+[2019-11-30T15:28:49.741] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 30ms
+[2019-11-30T15:28:53.891] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 20ms
+[2019-11-30T15:28:53.895] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 23ms
+[2019-11-30T15:28:53.899] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 25ms
+[2019-11-30T15:31:01.292] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 12ms
+[2019-11-30T15:31:01.299] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 11ms
+[2019-11-30T15:31:01.301] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 14ms
+[2019-11-30T15:31:13.553] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 46ms
+[2019-11-30T15:31:13.621] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 56ms
+[2019-11-30T15:31:13.655] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 69ms
+[2019-11-30T15:31:38.150] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 4ms
+[2019-11-30T15:31:38.156] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 4ms
+[2019-11-30T15:31:38.159] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 5ms
+[2019-11-30T15:31:59.592] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 9ms
+[2019-11-30T15:31:59.594] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-30T15:31:59.597] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 8ms
+[2019-11-30T15:32:47.893] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 6ms
+[2019-11-30T15:32:47.895] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-30T15:32:47.897] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 5ms
+[2019-11-30T15:32:51.394] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 5ms
+[2019-11-30T15:32:51.396] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-30T15:32:51.399] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 7ms
+[2019-11-30T15:37:59.668] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 29ms
+[2019-11-30T15:37:59.670] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 30ms
+[2019-11-30T15:37:59.671] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 30ms
+[2019-11-30T15:38:44.520] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T15:38:44.523] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-30T15:38:44.527] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 6ms
+[2019-11-30T15:40:38.769] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 4ms
+[2019-11-30T15:40:38.774] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T15:40:38.776] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T15:42:10.681] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 39ms
+[2019-11-30T15:42:28.138] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T15:42:28.171] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-30T15:42:28.173] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 5ms
+[2019-11-30T15:42:30.101] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 41ms
+[2019-11-30T15:42:30.104] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 43ms
+[2019-11-30T15:42:30.107] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 44ms
+[2019-11-30T15:43:08.546] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 27ms
+[2019-11-30T15:43:08.548] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 28ms
+[2019-11-30T15:43:08.550] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 28ms
+[2019-11-30T15:45:51.715] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 29ms
+[2019-11-30T15:46:15.384] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T15:46:15.388] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-30T15:46:15.391] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 6ms
+[2019-11-30T15:46:17.185] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 39ms
+[2019-11-30T15:46:17.211] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 64ms
+[2019-11-30T15:46:17.212] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 64ms
+[2019-11-30T15:46:19.727] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 26ms
+[2019-11-30T15:46:22.856] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T15:46:22.898] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-30T15:46:22.901] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 7ms
+[2019-11-30T15:48:38.821] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 20ms
+[2019-11-30T15:48:38.823] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T15:48:38.825] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 22ms
+[2019-11-30T15:49:10.065] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T15:49:10.099] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T15:49:10.101] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 2ms
+[2019-11-30T15:49:13.117] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 60ms
+[2019-11-30T15:50:07.280] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 19ms
+[2019-11-30T15:50:07.283] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T15:50:07.285] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T15:50:10.269] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 35ms
+[2019-11-30T15:50:10.272] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 37ms
+[2019-11-30T15:50:10.275] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 39ms
+[2019-11-30T15:50:11.556] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 39ms
+[2019-11-30T15:50:11.559] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 41ms
+[2019-11-30T15:50:11.560] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 42ms
+[2019-11-30T15:50:17.756] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T15:50:17.791] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 5ms
+[2019-11-30T15:50:17.793] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T15:50:20.794] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 20ms
+[2019-11-30T15:50:20.822] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 7ms
+[2019-11-30T15:50:20.826] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 9ms
+[2019-11-30T15:50:20.828] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 10ms
+[2019-11-30T15:50:20.855] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '03:50:20,10.8)' at line 1
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T15:50:20.894] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 75ms
+[2019-11-30T15:50:48.873] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 27ms
+[2019-11-30T15:50:48.878] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 31ms
+[2019-11-30T15:50:48.881] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 6ms
+[2019-11-30T15:58:20.378] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 11ms
+[2019-11-30T15:58:20.384] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 10ms
+[2019-11-30T15:58:20.386] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 11ms
+[2019-11-30T15:58:24.230] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 33ms
+[2019-11-30T15:58:24.257] [ERROR] [Default] - ReferenceError: str is not defined
+    at Object.insertRow (F:\数据库系统\homework3\be\services\SQL.js:29:5)
+    at Promise (F:\数据库系统\homework3\be\services\index.js:133:26)
+    at new Promise (<anonymous>)
+    at tables.insertRow (F:\数据库系统\homework3\be\services\index.js:132:10)
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\数据库系统\homework3\be\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at module.exports (F:\数据库系统\homework3\be\middlewares\jwt.js:28:10)
+[2019-11-30T15:58:24.261] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 6ms
+[2019-11-30T15:58:24.264] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 14ms
+[2019-11-30T15:58:24.270] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 18ms
+[2019-11-30T15:58:24.271] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T15:59:38.420] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 17ms
+[2019-11-30T15:59:38.426] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 15ms
+[2019-11-30T15:59:38.430] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 18ms
+[2019-11-30T15:59:46.135] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 33ms
+[2019-11-30T15:59:46.173] [ERROR] [Default] - ReferenceError: str is not defined
+    at Object.insertRow (F:\数据库系统\homework3\be\services\SQL.js:29:5)
+    at Promise (F:\数据库系统\homework3\be\services\index.js:133:26)
+    at new Promise (<anonymous>)
+    at tables.insertRow (F:\数据库系统\homework3\be\services\index.js:132:10)
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at F:\数据库系统\homework3\be\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (F:\数据库系统\homework3\be\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at module.exports (F:\数据库系统\homework3\be\middlewares\jwt.js:28:10)
+[2019-11-30T15:59:46.201] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 34ms
+[2019-11-30T15:59:46.205] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 59ms
+[2019-11-30T15:59:46.209] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 45ms
+[2019-11-30T15:59:46.215] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 8ms
+[2019-11-30T16:00:55.235] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 13ms
+[2019-11-30T16:00:55.238] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-30T16:00:55.241] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 10ms
+[2019-11-30T16:00:59.287] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 34ms
+[2019-11-30T16:00:59.318] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 9ms
+[2019-11-30T16:00:59.322] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 10ms
+[2019-11-30T16:00:59.324] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 10ms
+[2019-11-30T16:00:59.356] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''total_price','total_price') VALUES ('12','12')' at line 1
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T16:00:59.465] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 150ms
+[2019-11-30T16:04:10.752] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 13ms
+[2019-11-30T16:04:10.757] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 9ms
+[2019-11-30T16:04:10.759] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 11ms
+[2019-11-30T16:04:14.116] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 36ms
+[2019-11-30T16:04:14.188] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 34ms
+[2019-11-30T16:04:14.192] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 37ms
+[2019-11-30T16:04:14.194] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 37ms
+[2019-11-30T16:04:14.253] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''total_price','total_price') VALUES ('12','12')' at line 1
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T16:04:14.257] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 99ms
+[2019-11-30T16:05:09.637] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 26ms
+[2019-11-30T16:05:09.657] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 10ms
+[2019-11-30T16:05:09.684] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 34ms
+[2019-11-30T16:05:09.691] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''total_price','total_price') VALUES ('e00','pr01','10','2019-11-30 04:05:09','12' at line 1
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T16:05:09.718] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 66ms
+[2019-11-30T16:05:09.722] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 65ms
+[2019-11-30T16:05:52.270] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 31ms
+[2019-11-30T16:05:52.284] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 6ms
+[2019-11-30T16:05:52.309] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 30ms
+[2019-11-30T16:05:52.316] [ERROR] [Default] - Error: [ERROR] - ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''eid','pid','qty','ptime','total_price') VALUES ('e00','pr01','10','2019-11-30 0' at line 1
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T16:05:52.318] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 37ms
+[2019-11-30T16:05:52.323] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 18ms
+[2019-11-30T16:07:53.510] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 27ms
+[2019-11-30T16:07:53.569] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 43ms
+[2019-11-30T16:07:53.576] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 39ms
+[2019-11-30T16:07:53.608] [ERROR] [Default] - Error: [ERROR] - ER_NO_DEFAULT_FOR_FIELD: Field 'cid' doesn't have a default value
+    at Query.<anonymous> (F:\数据库系统\homework3\be\services\index.js:136:16)
+    at Query.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:525:10)
+    at Query._callback (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:491:16)
+    at Query.Sequence.end (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Sequence.js:83:24)
+    at Query.ErrorPacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\sequences\Query.js:90:8)
+    at Protocol._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\数据库系统\homework3\be\node_modules\mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\数据库系统\homework3\be\node_modules\mysql\lib\Connection.js:91:28)
+[2019-11-30T16:07:53.612] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 73ms
+[2019-11-30T16:07:53.650] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 79ms
+[2019-11-30T16:09:16.251] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 27ms
+[2019-11-30T16:09:16.270] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 11ms
+[2019-11-30T16:09:16.302] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 38ms
+[2019-11-30T16:09:16.307] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 41ms
+[2019-11-30T16:09:16.314] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 43ms
+[2019-11-30T16:14:49.077] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 45ms
+[2019-11-30T16:14:49.080] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 46ms
+[2019-11-30T16:14:49.084] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 9ms
+[2019-11-30T16:14:57.513] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 32ms
+[2019-11-30T16:14:57.516] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 33ms
+[2019-11-30T16:14:57.518] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 34ms
+[2019-11-30T16:20:00.114] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:20:01.627] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:26:16.745] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 9ms
+[2019-11-30T16:26:34.409] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:26:37.378] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:26:39.596] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:27:07.742] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:27:11.332] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 29ms
+[2019-11-30T16:27:27.975] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 39ms
+[2019-11-30T16:27:30.494] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 8ms
+[2019-11-30T16:28:15.786] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:28:15.818] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:28:19.780] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:32:03.911] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 40ms
+[2019-11-30T16:32:05.907] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:32:57.979] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:32:58.973] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:36:57.036] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:37:14.807] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:37:22.389] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:37:26.098] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T16:38:04.620] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 25ms
+[2019-11-30T16:38:07.586] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:38:13.957] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:41:00.411] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:41:10.427] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:41:17.996] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:41:19.296] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:41:20.855] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:42:10.466] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:42:29.950] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:42:37.268] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:42:42.784] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:42:44.652] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:42:57.573] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:43:19.450] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T16:43:23.574] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:50:45.889] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 27ms
+[2019-11-30T16:50:52.313] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 37ms
+[2019-11-30T16:54:58.110] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:55:02.682] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T16:55:33.503] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:55:36.696] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:56:19.843] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T16:56:22.551] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T16:57:11.386] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:57:13.249] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 5ms
+[2019-11-30T16:57:35.777] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:57:37.893] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:57:52.584] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T16:57:54.665] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T16:59:11.685] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 20ms
+[2019-11-30T16:59:15.393] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 30ms
+[2019-11-30T17:00:33.687] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:00:44.336] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:00:46.174] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:02:18.111] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:02:25.671] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 31ms
+[2019-11-30T17:02:28.306] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:03:20.327] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:03:49.212] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:09:15.332] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:09:20.299] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:09:35.294] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:09:38.556] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:10:15.789] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:10:21.296] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:10:37.209] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:10:42.762] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:10:44.404] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:10:56.996] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 22ms
+[2019-11-30T17:10:59.532] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 5ms
+[2019-11-30T17:11:27.155] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:11:30.252] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:11:53.209] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:11:55.496] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:12:04.925] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 29ms
+[2019-11-30T17:14:12.270] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:14:18.362] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:14:54.758] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:14:58.096] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:16:00.526] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:16:02.844] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:16:17.896] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:16:20.148] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:16:44.754] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 26ms
+[2019-11-30T17:16:47.003] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:17:30.378] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:17:32.477] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 5ms
+[2019-11-30T17:18:07.787] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:18:10.559] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 30ms
+[2019-11-30T17:18:16.197] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:19:41.591] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:19:47.687] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 27ms
+[2019-11-30T17:19:52.695] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:19:55.155] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 33ms
+[2019-11-30T17:21:44.006] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:21:45.563] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:21:50.222] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:21:55.848] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:22:45.358] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:22:48.423] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:22:59.275] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:23:28.063] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:23:47.207] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:24:00.557] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:24:10.180] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:25:02.690] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:25:07.899] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:25:11.147] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 29ms
+[2019-11-30T17:25:16.410] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:25:18.036] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:25:19.678] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:25:23.031] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:31:48.955] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 28ms
+[2019-11-30T17:32:00.482] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:32:14.958] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:32:16.440] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:32:21.796] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:33:21.989] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:33:24.891] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:41:55.885] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:42:07.018] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:42:29.839] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:42:33.322] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:43:28.429] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:43:30.889] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:44:10.726] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:44:13.212] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:44:39.557] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:44:41.998] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:45:17.914] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:45:20.115] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:45:42.161] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:45:43.989] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:46:13.556] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:46:15.678] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:46:18.116] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 31ms
+[2019-11-30T17:46:40.679] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:46:42.789] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:47:15.287] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:47:18.407] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:47:21.824] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:47:29.739] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:47:34.813] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:47:48.434] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:47:51.787] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:48:10.059] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:48:11.946] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:48:19.476] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:48:23.202] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:48:41.215] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:48:43.541] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:48:49.009] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:48:51.584] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:49:20.744] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:49:23.227] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:49:31.883] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:49:50.577] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:50:01.745] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 7ms
+[2019-11-30T17:50:04.152] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T17:50:11.869] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:50:14.671] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:50:19.558] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:50:27.529] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:50:29.457] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:50:56.412] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:50:58.754] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T17:51:01.879] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T17:51:09.089] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T17:51:10.775] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T18:58:34.143] [INFO] [Default] - POST 200 /api/user/login - ::1 - 4ms
+[2019-11-30T18:58:36.776] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:01:11.991] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:01:56.221] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:02:37.165] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:04:45.288] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:04:50.639] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:04:54.672] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:04:56.472] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:05:01.825] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:05:07.429] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:05:10.294] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 34ms
+[2019-11-30T19:09:43.013] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 28ms
+[2019-11-30T19:09:50.878] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:10:55.689] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:11:13.436] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:11:15.386] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:11:19.134] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:11:27.353] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:11:29.991] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:11:35.009] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:11:41.239] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:12:13.193] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:12:15.797] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:12:42.800] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:12:45.301] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:13:14.121] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T19:13:16.603] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:13:35.825] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 25ms
+[2019-11-30T19:13:35.829] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 27ms
+[2019-11-30T19:13:35.854] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 27ms
+[2019-11-30T19:13:45.615] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T19:13:45.644] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 27ms
+[2019-11-30T19:13:45.676] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 33ms
+[2019-11-30T19:15:02.131] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 21ms
+[2019-11-30T19:15:02.133] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 21ms
+[2019-11-30T19:15:02.135] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 22ms
+[2019-11-30T19:15:04.560] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 31ms
+[2019-11-30T19:15:04.562] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 30ms
+[2019-11-30T19:15:04.563] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T19:15:06.796] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 28ms
+[2019-11-30T19:15:06.798] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 29ms
+[2019-11-30T19:15:06.831] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 61ms
+[2019-11-30T19:15:34.576] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 28ms
+[2019-11-30T19:15:34.579] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 30ms
+[2019-11-30T19:15:34.580] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 3ms
+[2019-11-30T19:15:37.411] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 37ms
+[2019-11-30T19:15:37.413] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 38ms
+[2019-11-30T19:15:37.494] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 119ms
+[2019-11-30T19:15:51.273] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 2ms
+[2019-11-30T19:15:51.294] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 22ms
+[2019-11-30T19:15:51.297] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 3ms
+[2019-11-30T19:15:53.193] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 40ms
+[2019-11-30T19:15:53.194] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 39ms
+[2019-11-30T19:15:53.196] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 40ms
+[2019-11-30T19:16:07.173] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 31ms
+[2019-11-30T19:16:07.177] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 31ms
+[2019-11-30T19:16:07.178] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T19:16:09.353] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 3ms
+[2019-11-30T19:16:09.506] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 155ms
+[2019-11-30T19:16:09.508] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 95ms
+[2019-11-30T19:16:32.924] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 23ms
+[2019-11-30T19:16:32.957] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 22ms
+[2019-11-30T19:16:32.992] [INFO] [Default] - POST 200 /api/tables/updateRow - ::1 - 40ms
+[2019-11-30T19:16:33.093] [INFO] [Default] - POST 200 /api/tables/insertRow - ::1 - 140ms
+[2019-11-30T19:16:33.173] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 215ms
+[2019-11-30T19:16:37.420] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:16:40.326] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:16:49.457] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:16:51.018] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:17:00.588] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:17:02.402] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:17:04.114] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:17:48.819] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:19:02.348] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:19:05.002] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 35ms
+[2019-11-30T19:19:21.848] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:19:24.372] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:19:30.954] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:19:34.025] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 1ms
+[2019-11-30T19:19:50.138] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:19:51.901] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:20:02.593] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:20:05.435] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:21:01.821] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:21:29.150] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:21:35.370] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:21:59.959] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 34ms
+[2019-11-30T19:22:07.425] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:22:12.244] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:22:17.580] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 2ms
+[2019-11-30T19:29:05.872] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 28ms
+[2019-11-30T19:29:05.874] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 29ms
+[2019-11-30T19:29:05.877] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 31ms
+[2019-11-30T19:37:44.986] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 7ms
+[2019-11-30T19:37:44.990] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 8ms
+[2019-11-30T19:37:44.993] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 9ms
+[2019-11-30T19:42:02.719] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 3ms
+[2019-11-30T19:44:55.303] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 5ms
+[2019-11-30T19:44:55.304] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 3ms
+[2019-11-30T19:44:55.306] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 4ms
+[2019-11-30T20:01:24.304] [INFO] [Default] - GET 200 /api/tables/getTable?name=purchases - ::1 - 4ms
+[2019-11-30T20:30:16.146] [INFO] [Default] - GET 200 /api/tables/getTable?name=products - ::1 - 6ms
+[2019-11-30T20:30:16.148] [INFO] [Default] - GET 200 /api/tables/getTable?name=customers - ::1 - 6ms
+[2019-11-30T20:30:16.150] [INFO] [Default] - GET 200 /api/tables/getTable?name=employees - ::1 - 7ms

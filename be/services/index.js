@@ -3,7 +3,7 @@ const SQL = require('./SQL');
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '107157',
+  password: '',
   database: 'course'
 });
 
@@ -11,6 +11,7 @@ connection.connect();
 
 const timer = {}
 const tables = {}
+const shop = {}
 
 timer.getEvents = async (ctx, next) => {
   return new Promise((resolve, reject) => {
@@ -106,7 +107,7 @@ tables.getTable = async (ctx, next) => {
 }
 
 tables.updateRow = async (ctx, next) => {
-  const { name, keys,vals } = ctx.request.body
+  const { name, keys, vals } = ctx.request.body
   console.log(name, keys, vals)
   return new Promise((resolve, reject) => {
     connection.query(SQL.updateRowByKeys(name, keys, vals), function (err, result) {
@@ -167,6 +168,7 @@ tables.deleteRow = async (ctx, next) => {
     throw err;
   })
 }
+
 const logger = (table, keys, vals, operation) => {
   console.log(vals)
   connection.query(SQL.operateLog (table, keys, vals, operation), function (err, result) {
@@ -179,5 +181,6 @@ const logger = (table, keys, vals, operation) => {
 
 module.exports = {
   timer,
-  tables
+  tables,
+  shop
 }

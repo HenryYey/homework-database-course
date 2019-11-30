@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
     <el-container style="height: 100vh;">
-      <el-header class="layout-header">管理后台</el-header>
+      <el-header class="layout-header">随便撸的管理后台</el-header>
       <el-container>
         <Sidebar />
         <Main style="width: 100vw;"/>

@@ -11,9 +11,24 @@ const getRows = (table) => {
 }
 // keys和vals为字符串数组 
 const insertRow = (table, keys, vals) => {
-  const keys_str = keys.join(",");
-  const vals_str = vals.join(",");
-  return `INSERT INTO  ${table} ( ${keys_str} ) VALUES ( ${vals_str})`
+  let str1 = ""
+  let str2 = ""
+
+  if (keys.length > 1) {
+    keys.forEach((item, index) => {
+      if (index !== keys.length - 1)
+        str1 += "`" + item + "`,"
+      if (index === keys.length - 1)
+        str1 += "`" + item + "`" 
+    });
+    vals.forEach((item, index) => {
+      if (index !== vals.length - 1)
+        str2 += `'${item}',`
+      if (index === vals.length - 1)
+        str2 += `'${item}'`
+    });
+  }
+  return `INSERT INTO  ${table} (${str1}) VALUES (${str2})`
 }
 // keys和vals为字符串数组 
 const updateRowByKeys = (table, keys, vals) => {

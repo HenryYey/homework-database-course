@@ -58,6 +58,18 @@ export const constantRoutes = [
         name: 'Log',
         component: () => import('@/views/log/index'),
         meta: { title: 'log', icon: 'log' }
+      },
+      {
+        path: 'shop',
+        name: 'Shop',
+        component: () => import('@/views/shop/index'),
+        meta: { title: 'shop', icon: 'log' }
+      },
+      {
+        path: 'report',
+        name: 'Report',
+        component: () => import('@/views/report/index'),
+        meta: { title: 'report', icon: 'log' }
       }
     ]
   },
